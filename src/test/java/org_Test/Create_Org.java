@@ -9,5 +9,12 @@ public class Create_Org
 	{
 		System.out.println("createOrganization");
 	}
+	@Test
+	public void ModifyOrganization()
+	{
+		System.out.println("ModifyOrganization");
+	}
+	
+	
 
 }
